@@ -109,6 +109,7 @@ useEffect(() => {
 
 
  {/* Navigation buttons next and prev */}
+  {/*
  <div className='next-prev-container' >
       <button type="button">
         Prev 30 countries
@@ -116,7 +117,7 @@ useEffect(() => {
       <button type="button" >
         Next 30 countries
       </button>
-      </div>
+      </div> */}
     {/* stats section */}
    <h3>All Countries Population Chart</h3>
    <p>Hover over to see each countries total population</p>
