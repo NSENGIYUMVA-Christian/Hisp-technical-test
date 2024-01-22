@@ -1,3 +1,7 @@
 # Hisp-technical-test
 
-1. to run it: npm install and then npm run dev
+# Please follow this steps to run the app on local
+
+1. cd my-app
+2. npm install
+3. npm run dev
